@@ -1,1 +1,4 @@
-# shaunk4.github.io
+# Shaun Krohn
+
+### Eductation
+Cloud Computing, BS
