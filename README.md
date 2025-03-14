@@ -1,4 +1,4 @@
 # Shaun Krohn
 
-### Eductation
+### Education
 Cloud Computing, BS
